@@ -2,7 +2,7 @@
 
 This app is promising for solving many problems related to confidentiality, security, and transparency in the transactions involving donation.
 - [Link to the web application](https://umit-fundraising.netlify.app/)
-- [Follow on LinkedIn](https://linkedin.com/in/kamzadias)
+- [Follow on LinkedIn](https://www.linkedin.com/in/arshat-talap-09628a215/)
 
 <img width="1698" alt="image" src="https://github.com/kamzadias/blockchain-fundraising-app/assets/68639981/06e962d7-5513-4df8-92d4-c84f7b0b2493">
 
